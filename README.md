@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi This is a private code repository that may protect some work and practice code
+### while others may have explanations
+### We hope it can be helpful to later generations
 
 <!--
 **ssaa331/ssaa331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
